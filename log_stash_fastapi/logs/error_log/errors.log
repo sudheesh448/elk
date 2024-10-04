@@ -36287,3 +36287,354 @@ Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py",
 
 ______
 
+1245::2024-10-04T12:04:35.771182::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:04:40.772616::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:04:45.774322::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:04:50.775027::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:04:55.776655::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:00.778451::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:05.778723::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:10.780285::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:15.780988::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:20.782166::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:25.783401::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:30.783932::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:35.784859::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:40.787205::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:45.788259::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:50.789664::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:05:55.791359::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:00.791924::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:05.792922::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:10.794167::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:15.795481::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:20.796015::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:25.796844::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:30.797834::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:35.799722::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:40.802158::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:45.803990::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:50.804518::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:06:55.805161::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:00.806603::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:05.806852::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:10.807490::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:15.808525::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:20.809208::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:25.810290::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:30.811158::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:35.812144::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:40.813090::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
+1245::2024-10-04T12:07:45.814272::YOUR_MACHINE_ID_HERE::ERROR
+*****
+Exception Type: ValueError
+Message: Simulated error for demonstration.
+Location: main.py:31 log_background
+Traceback:   File "/home/sudheesh/PersonalProjects/log_stash/log_stash/main.py", line 28, in log_background
+
+______
+
